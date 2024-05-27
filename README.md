@@ -8,7 +8,7 @@ O Jornal de Moda do Futuro é um projeto inovador que combina a criatividade da 
 - Leonardo AI: Criação das imagens da moda descritos pelo jornal.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Fui buscar ideias para conseguir desenvolver com o apoio de IAs generativas. Quando decidi que iria fazer um jornal de moda, objetivei ir atrás de inovações futurísticas na moda pelo ChatGPT para poder transcrever para o Leonardo AI.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
