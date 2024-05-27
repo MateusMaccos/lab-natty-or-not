@@ -27,6 +27,7 @@ Este vestido de gala é feito de um tecido bioluminescente que brilha suavemente
 Exemplo de Imagem:
 
 Uma mulher usando um vestido longo e luminoso, em um ambiente noturno, onde o vestido brilha em tons de azul e verde, destacando-se no escuro.
+
 2. Traje "Cyber Chic"
 Descrição:
 Um conjunto unissex que combina um casaco estruturado com linhas geométricas de LED embutidas, que podem ser programadas para exibir diferentes padrões e cores. A calça é feita de um material reflexivo que responde ao toque, alterando sua textura e cor. O conjunto é complementado por acessórios holográficos, como pulseiras e colares que flutuam levemente ao redor do corpo.
@@ -34,6 +35,7 @@ Um conjunto unissex que combina um casaco estruturado com linhas geométricas de
 Exemplo de Imagem:
 
 Uma pessoa em um ambiente urbano futurista, usando um casaco preto com linhas de LED azuis piscando em padrões complexos, calças reflexivas que brilham em prata e acessórios holográficos ao redor dos pulsos e pescoço.
+
 3. Vestido "Eco-Wave"
 Descrição:
 Este vestido sustentável é feito de tecidos orgânicos cultivados em laboratórios, com a capacidade de se auto-reparar. O design apresenta um padrão ondulado que se ajusta automaticamente ao corpo, garantindo um caimento perfeito. Pequenas plantas vivas são incorporadas no tecido, proporcionando um visual único e ecologicamente correto. A paleta de cores é inspirada na natureza, com tons de verde musgo, marrom terra e azul oceano.
@@ -41,6 +43,7 @@ Este vestido sustentável é feito de tecidos orgânicos cultivados em laborató
 Exemplo de Imagem:
 
 Uma mulher em um cenário de jardim futurista, usando um vestido com padrões de ondas verdes e azuis, pequenas folhas e flores brotando discretamente do tecido.
+
 4. Look "Tech-Tradition"
 Descrição:
 Uma fusão de moda tradicional com tecnologia de ponta, este traje incorpora elementos de vestimentas históricas, como o kimono japonês, mas com uma atualização futurista. O tecido é um polímero leve com uma superfície holográfica que exibe padrões culturais em movimento. Sensores integrados ajustam automaticamente a temperatura e a forma do traje para o máximo conforto.
@@ -48,6 +51,7 @@ Uma fusão de moda tradicional com tecnologia de ponta, este traje incorpora ele
 Exemplo de Imagem:
 
 Uma pessoa usando um kimono com padrões holográficos dinâmicos em tons de roxo e dourado, em um ambiente de templo moderno, onde a tradição encontra a tecnologia.
+
 5. Roupa "Intergalactic Traveler"
 Descrição:
 Este traje é inspirado em viagens espaciais e feito de um material ultraleve que simula gravidade zero. O design inclui uma jaqueta com capuz que pode se inflar para servir como um capacete protetor em ambientes hostis. O tecido é resistente a radiações e tem painéis solares integrados para carregar dispositivos eletrônicos. A roupa vem com botas magnéticas para caminhar em superfícies metálicas.
@@ -55,6 +59,7 @@ Este traje é inspirado em viagens espaciais e feito de um material ultraleve qu
 Exemplo de Imagem:
 
 Um explorador em um planeta alienígena, vestindo uma jaqueta prateada com capuz inflável, calças ajustadas com painéis solares e botas com solas magnéticas, posando em uma paisagem exótica e colorida.
+
 6. Conjunto "Neon Punk"
 Descrição:
 Uma ode ao movimento punk com uma atualização futurista, este conjunto inclui uma jaqueta de couro sintético com neon incorporado, que pode ser personalizado através de um aplicativo para exibir diferentes grafismos e mensagens. As calças possuem inserções de metal líquido que se ajustam à forma do corpo, proporcionando um visual arrojado e flexível. Botas de combate com solados fluorescentes completam o look.
